@@ -1,0 +1,18 @@
+/**/
+h1{
+    color:rgb(20, 20, 177);
+}
+h2{
+    color: rgb(61, 9, 9);
+}
+
+header p{
+    color: rgb(10, 136, 253);
+}
+/* selector por clase*/
+.content{
+    color: rgb(46, 82, 179);
+}
+#stile1{
+    color: brown;
+}
